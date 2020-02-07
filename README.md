@@ -12,3 +12,5 @@ Change your Discord RPC by changing your Fortnite Tier to anything!
 This is more for trolling purposes!
 This only works with the Discord App version NOT the website!
 Make sure to keep the application open for the status to stay there!
+
+<h3> Enjoy!
